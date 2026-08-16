@@ -67,7 +67,6 @@ a {
 .section-tagline {
     color: var(--color-primary);
     font-size: var(--font-family-title);
-    font-weight: var(--font-weight-bold);
     text-transform: var(--section-tagline-transform);
+    font-weight: var(--font-weight-bold);
 }
-
